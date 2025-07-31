@@ -1,0 +1,6 @@
+Name: libpkg-config
+Version: 0.1.1
+Description: C library for retrieving compiler/linker flags and other metadata
+URL: https://github.com/build2/libpkg-config
+Cflags: -IC:\\build2\\include
+Libs: -LC:\\build2\\lib -lpkg-config
